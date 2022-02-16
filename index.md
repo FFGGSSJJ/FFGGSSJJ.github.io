@@ -12,7 +12,7 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 <p style="text-align:left;"><b>ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
 
-<p style="text-align:left;"><i>B.E. in Electrical and Computer Engineering-ECE (GPA: 3.96/4.00)</i><span style="float:right;">2019 - Present</span></p>
+<p style="text-align:left;"><i>B.E. in Electrical and Computer Engineering-ECE (GPA: 3.96/4.00)</i><span style="float:right;"></span></p>
 
 - Interdisciplinary program in computer engineering and mathematics
 - Honors: **Top 10** in ECE major for 2020-2021 semester
@@ -21,7 +21,7 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 <p style="text-align:left;"><b>UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN (UIUC)</b><span style="float:right;">Illinois, USA</span></p>
 
-<p style="text-align:left;"><i>B.S. in Electrical and Computer Engineering-ECE (GPA: 3.81/4.00)</i><span style="float:right;">2019 - Present</span></p>
+<p style="text-align:left;"><i>B.S. in Electrical and Computer Engineering-ECE (GPA: 3.81/4.00)</i><span style="float:right;"></span></p>
 
 - Honors: **Dean’s List** for 2019-2020 and 2020-2021 semester
 
