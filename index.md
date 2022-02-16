@@ -1,4 +1,4 @@
-## Guanshujie Fu
+## About Me
 
 - *B.E. in ZJU   Electrical and Computer Engineering* 
 - *B.S. in UIUC Electrical and Computer Engineering*
