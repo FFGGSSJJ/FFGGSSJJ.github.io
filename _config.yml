@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
 title: Guanshujie Fu
 position: Junior Student
 email: gf9@illinois.edu
 avatar: ./assets/img/me.jpg
+remote_theme: yaoyao-liu/minimal-light
