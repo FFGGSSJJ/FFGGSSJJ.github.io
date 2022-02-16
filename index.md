@@ -1,8 +1,8 @@
 ## ABOUT ME
 
-- *Junior Student*
-- *B.E. in ZJU Electrical and Computer Engineering* 
-- *B.S. in UIUC Electrical and Computer Engineering*
+- *He/Him/We*
+- *Junior Student in Computer Engineering* 
+- *E-mail: gf9@illinois.edu*
 
 I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am now exchanging in UIUC.
 
