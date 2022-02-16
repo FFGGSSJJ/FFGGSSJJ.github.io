@@ -51,3 +51,11 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 Jin Y., Fu G., Qian L., Liu H., Wang H. “Representation and Extraction of Diesel Engine Maintenance Knowledge Graph with Bidirectional Relations Based on BERT and Bi-LSTM-CRF Model”, in 2021 IEEE International Conference on e-Business Engineering (ICEBE 2021), pp 126-133, Dec. 2021. [[Paper](https://conferences.computer.org/icebe/2021/icebe21_files/pdfs/ICEBE2021-4GiTCoSI2h92N0hUER0R6E/441800a126/441800a126.pdf)]
 
 <hr />
+
+## EXPERIENCE
+
+#### Teaching Assistant
+
+- **MATH 213**: Discrete Mathematics (Fall 2021)
+  - Instructor: *[Klaus-dieter Schewe](https://www.researchgate.net/profile/Klaus-Dieter-Schewe)*
+  - Responsibility: Holding weekly discussions to help students learn course materials and finish worksheets, holding weekly office hours, grading homework and exams, monitoring the exams, prepare review sessions and materials for the students before each exam.
