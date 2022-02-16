@@ -8,11 +8,11 @@ I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am now exchanging
 
 For now, my research interests are in ***FPGA***, ***high performance calculation***, etc.
 
-
+<hr color="#000000" />
 
 ## EDUCATION
 
-<p style="text-align:left;"><b>ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
+<p style="text-align:left;"><b, color = "000000">ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
 
 <p style="text-align:left;"><i>B.E. in Electrical and Computer Engineering-ECE (GPA: 3.96/4.00)</i><span style="float:right;"></span></p>
 
@@ -27,9 +27,15 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 - Honors: ***Dean’s List*** for 2019-2020 and 2020-2021 semester
 
-### Jekyll Themes
+## PROJECTS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FFGGSSJJ/FFGGSSJJ.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### Representation and Extraction of Diesel Engine Maintenance Knowledge Graph
+
+
+
+
+
+
 
 ### Support or Contact
 
