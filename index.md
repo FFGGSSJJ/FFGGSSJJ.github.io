@@ -1,11 +1,12 @@
 ## About Me
 
+- *Junior Student*
 - *B.E. in ZJU Electrical and Computer Engineering* 
 - *B.S. in UIUC Electrical and Computer Engineering*
 
-You can use the [editor on GitHub](https://github.com/FFGGSSJJ/FFGGSSJJ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am in UIUC now. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For now, my research interest is in FPGA, high performance calculation, etc.
 
 ### Markdown
 
