@@ -46,19 +46,8 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 <hr />
 
-## AWARDS
+## PUBLICATION
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Jin Y., Fu G., Qian L., Liu H., Wang H. “Representation and Extraction of Diesel Engine Maintenance Knowledge Graph with Bidirectional Relations Based on BERT and Bi-LSTM-CRF Model”, in 2021 IEEE International Conference on e-Business Engineering (ICEBE 2021), pp 126-133, Dec. 2021. [[Paper](https://conferences.computer.org/icebe/2021/icebe21_files/pdfs/ICEBE2021-4GiTCoSI2h92N0hUER0R6E/441800a126/441800a126.pdf)]
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<hr />
