@@ -6,7 +6,7 @@
 
 I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am now exchanging in UIUC.
 
-For now, my research interests are in ***FPGA***, ***high performance calculation***, etc.
+For now, my research interests are in ***FPGA***, ***high performance calculation***, etc. I am now working on a FPGA-related project guided by *[Professor Nam Sung Kim](https://csl.illinois.edu/directory/faculty/nskim)* in UIUC.
 
 <hr />
 
@@ -48,7 +48,16 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 ## AWARDS
 
-
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
 ### Support or Contact
 
