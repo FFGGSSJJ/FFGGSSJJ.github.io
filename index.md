@@ -1,36 +1,29 @@
-## About Me
+## ABOUT ME
 
 - *Junior Student*
 - *B.E. in ZJU Electrical and Computer Engineering* 
 - *B.S. in UIUC Electrical and Computer Engineering*
 
-I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am in UIUC now. 
+I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am now exchanging in UIUC.
 
-For now, my research interest is in FPGA, high performance calculation, etc.
+For now, my research interests are in ***FPGA***, ***high performance calculation***, etc.
 
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p style="text-align:left;"><b>ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
 
-```markdown
-Syntax highlighted code block
+<p style="text-align:left;"><i>B.E. in Electrical and Computer Engineering-ECE (GPA: 3.96/4.00)</i><span style="float:right;">2019 - Present</span></p>
 
-# Header 1
-## Header 2
-### Header 3
+- Interdisciplinary program in computer engineering and mathematics
+- Honors: **Top 10** in ECE major for 2020-2021 semester
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<p style="text-align:left;"><b>UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN (UIUC)</b><span style="float:right;">Illinois, USA</span></p>
 
-[Link](url) and ![Image](src)
-```
+<p style="text-align:left;"><i>B.S. in Electrical and Computer Engineering-ECE (GPA: 3.81/4.00)</i><span style="float:right;">2019 - Present</span></p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Honors: **Dean’s List** for 2019-2020 and 2020-2021 semester
 
 ### Jekyll Themes
 
