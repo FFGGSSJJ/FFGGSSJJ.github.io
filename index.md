@@ -12,7 +12,7 @@ For now, my research interests are in ***FPGA***, ***high performance calculatio
 
 ## EDUCATION
 
-<p style="text-align:left;"><b, color = "000000">ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
+<p style="text-align:left;"><b, color = "#000000">ZHEJIANG UNIVERSITY (ZJU)</b><span style="float:right;">Hangzhou, China</span></p>
 
 <p style="text-align:left;"><i>B.E. in Electrical and Computer Engineering-ECE (GPA: 3.96/4.00)</i><span style="float:right;"></span></p>
 
