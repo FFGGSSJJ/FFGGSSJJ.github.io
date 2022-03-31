@@ -39,10 +39,12 @@ For now, my research interests are in ***Computer Architecture***, ***High Perfo
 #### CUDA Implementation of Optimized Forward-Propagation Convolutional Layer
 
 - Implemented and optimized different forward-pass methods of a convolutional layer using CUDA.
+- Github Source (In Preparing)
 
 #### FPGA-based Project
 
 - Implemented an FPGA-based version of video game using SystemVerilog along with SoC.
+- Github Source (In Preparing)
 
 <hr />
 
