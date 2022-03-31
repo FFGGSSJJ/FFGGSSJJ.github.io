@@ -6,7 +6,7 @@
 
 I am persuing my *Bachelor Degree* in ZJU-UIUC Institute and I am now exchanging in UIUC.
 
-For now, my research interests are in ***Computer Architecture***, ***High Performance Calculation***, etc. I am now working on a FPGA-related project which focuses on a compression algorithm of paging in Linux kernel. The project is guided by *[Professor Nam Sung Kim](https://csl.illinois.edu/directory/faculty/nskim)*, instructed by his phd and MS  in UIUC.
+For now, my research interests are in ***Computer Architecture***, ***High Performance Calculation***, etc. I am now working on a FPGA-related project which focuses on a compression algorithm of paging in Linux kernel. The project is guided by *[Professor Nam Sung Kim](https://csl.illinois.edu/directory/faculty/nskim)*, instructed by his Ph.D and M.S  in UIUC.
 
 <hr />
 
