@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  <head>
+<head>
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -14,6 +14,7 @@
         Guanshujie's Page
     
   </title>
+  <!-- <link rel="icon" href="{{ url_for('static', filename='picture/view.jpg') }}"> -->
 
   <!-- CSS -->
   <link rel="stylesheet" href="public/css/poole.css">
@@ -51,17 +52,18 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
+      
       <p>
-      <img src="picture/view.jpg" alt="view">
-      <b>A Landscape</b>
+      <img src="picture/myself.jpeg" alt="myself">
+      <!-- <b>In Olympic National Park</b> -->
       </p>
 
       <!-- name -->
       <h1> Guanshujie Fu </h1>
       <b>(He/Him)</b>
       <a class="sidebar-nav-item" href="./name.html">Why such a long name?</a>
+      
       <hr>
-
       <!-- emails -->
       gf9@illinois.edu  guanshujie.19@intl.zju.edu.cn
       <hr>
@@ -83,7 +85,7 @@
       <a class="sidebar-nav-item" href="./publication.html">Publications</a>
       <a class="sidebar-nav-item" href="./misc.html">Misc</a>
       <a class="sidebar-nav-item" href="./contact.html">Contact</a>
-  </nav>
+    </nav>
   </div>
 </div>
 
@@ -99,15 +101,113 @@
   
     <!-- posts start here -->
       <div class="post">
-        <h1 class="page-title"> </h1>
-      </div>
-
-      <div class="post">
         <h1 class="page-title"> Research&Projects </h1>
+        
+        <p>
+          I will introduce some of my past and on-going projects, including both research and course projects.
+        </p>
+
+        <!-- Research Projects -->
+        <h2 class="page-subtitle"> 1. Selected Research Projects </h2>
+
+        <!-- Project 1 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [On-going] Computational Storage Drive: Use SmartSSD as Page Cache Expander </h3>
+          <hr>
+          <p> <i>Advisor: Dr. Ipoom Jeong, Prof. Nam Sung Kim (University of Illinois Urbana-Champaign) </i> </p>
+          <p><img src="picture/pagecache.png" alt="Page Cache Expander Arch" ></p>
+          <p>
+            This project aims to use SmartSSD as a page cache expander to perform page cache compression and other page cache management operations. By using the FPGA DRAM on SmartSSD to store victim page cache entries 
+            and FPGA logic to manage compressed page cache, we try to develop an OS-transparent schemes that require no OS intervention during page cache compression. My task is to
+            implement the compression algorithm on FPGA, currently the <i>LZ77</i> algorithm is implemented and worked in SmartSSD.
+          </p>
+        </div>
+
+        <!-- Project 2 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [On-going] Database Filter with SmartSSD </h3>
+          <hr>
+          <p> <i>Advisor: Dr. Ipoom Jeong, Prof. Nam Sung Kim (joint project with CS Department) (University of Illinois Urbana-Champaign) </i> </p>
+          <p><i>University of Illinois Urbana-Champaign</i></p>
+          <p><img src="picture/dbfilter.png" alt="Database Filter Arch" ></p>
+          <p> 
+            This project aims to offload Database filter functions to SmartSSD. The basic philosophy is: store the large scale data in SSD (with .csv form) ->
+            load the data from SSD to FPGA DRAM -> perform database filter -> load the filtered data from FPGA DRAM to CPU DRAM -> perform other operations in server CPU.
+            My job is to implement the filter function in SmartSSD. The current scheme uses the hash value to indicate the filtering condition.
+          </p>
+        </div>
+
+        <!-- Project 3 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [On-going] SmartNIC-Server Heterogeneous Computing: Improve Performance of Hybrid Cloud Servers </h3>
+          <hr>
+          <p> <i>Advisor: Jinghan Huang (Ph.D. candidate), Prof. Nam Sung Kim (University of Illinois Urbana-Champaign) </i> </p>
+          <p><i>University of Illinois Urbana-Champaign</i></p>
+          <p><img src="picture/nic0.png" alt="SmartNIC Arch" style="width:310px;height:250px;"><img src="picture/nic1.png" alt="SmartNIC Arch" style="width:570px;height:250px;"></p>
+        </div>
+
+        <!-- Project 4 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [Finished] The potential TCP protocol offloading with NVIDIA Bluefield2 SmartNIC </h3>
+          <hr>
+          <p> <i>Advisor: Prof. Jialin Li (National University of Singapore)</i> </p>
+          <p>[<a href="docs/BF-doca-flow-pre.pdf">PDF Intro</a>]</p>
+          <p><img src="picture/doca.png" alt="doca Arch" ></p>
+          <p>
+            With the instructions of Prof. Jialin Li, I studied NVIDIA BlueField DPU. We try to use the DOCA framework to develop primary functions of TCP protocol on the DPU. 
+            And with the use of Packet Process Hardware Acceleration provided by the DOCA frame, I propose the potential scheme to offload the main TCP stack to the DPU 
+            and present to industry-oriented research group</p>
+        </div>
+
+        <!-- Project 5 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [Finished] Representation and Extraction of Diesel Engine Maintenance Knowledge Graph </h3>
+          <hr>
+          <p> <i>Advisor: Prof. Hongwei Wang (Zhejiang University)</i> </p>
+          <p> <i>Members: Yihong Jin, Guanshujie Fu, Liyang Qian, Hanwen Liu</i></p>
+          <p>
+            Designed a framework to extract bidirectional relations through a novel combination of reports preprocessing, 
+            BERT model and Bi-LSTM-CRF model. Enabled the framework to construct diesel engine maintenance knowledge graph 
+            based on data set collected from power plants, automatically extract key information from the unstructured text in maintenance reports, 
+            transfer the extracted results into a structured knowledge graph using Neo4j, and construct bidirectional relations in the graph using Protégé
+          </p>
+        </div>
+
+
+        
         <hr>
 
-        <h2 class="page-subtitle"> Research </h2>
-      </div>
+
+        <!-- Course Projects -->
+        <h2 class="page-subtitle"> 2. Selected Course Projects </h2>
+
+        <!-- Project 6 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [ECE385] FPGA-based Graphic Design </h3>
+          <hr>
+          <p> <i>Course Name: Digital System Laboratory</i> </p>
+          <p>[<a href="https://github.com/FFGGSSJJ/ECE385-gf9/tree/main/Project">Project Repo</a>]</p>
+          <p>
+            Developed an FPGA-based version of video game using SystemVerilog along with SoC, capable of processing and outputting 
+            complex graphics (60fps, 640*480 resolution) to VGA in a high frame rate and enabling keyboard control. We choose the 
+            the famous video game called <a href="https://en.wikipedia.org/wiki/I_Wanna_Be_the_Guy"><i>'i wanna be the guy'</i></a> to implement
+          </p>
+        </div>
+
+        <!-- Project 7 -->
+        <div class="post">
+          <h3 class="page-subtitle"> [ECE391] Unix-like OS Kernel Design </h3>
+          <hr>
+          <p> <i>Course Name: Computer System Engineering</i> </p>
+          <p>[<a href="https://github.com/FFGGSSJJ/ECE391-gp27/tree/main/mp3_w-extra">Project Repo</a>]</p>
+          <p>
+            Led a team to design and implement an OS kernel resembling Linux with basic and advanced features.
+            The kernel includes disk read/write, file system support, virtual memory, scheduling, interrupts & exceptions and etc.
+            Designed a high-resolution (60fps, 800*600 resolution) graphic user interface with standard VGA capable
+          </p>
+        </div>
+
+      </div> <!-- Projects end -->
 
 
       
