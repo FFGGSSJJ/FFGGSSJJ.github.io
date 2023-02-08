@@ -13,7 +13,7 @@ template.innerHTML = `
     <!-- name -->
     <h1> Guanshujie Fu </h1>
     <b>(He/Him)</b>
-    <a class="sidebar-nav-item" href="./name.html">Why such a long name?</a>
+    <a class="sidebar-nav-item" href="./name.html">my name?</a>
     
     <hr>
     <!-- emails -->
