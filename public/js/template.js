@@ -21,9 +21,9 @@ template.innerHTML = `
     <hr>
 
     <!-- links -->
-    <a href="https://www.linkedin.com/in/guanshujiefu/">@Linkedin</a>
+    <a href="https://www.linkedin.com/in/guanshujiefu/">@LinkedIn</a>
     <div></div>
-    <a href="https://github.com/FFGGSSJJ">@Github</a>
+    <a href="https://github.com/FFGGSSJJ">@GitHub</a>
     <div></div>
     <a href="./docs/resume.pdf">@CurriculumVitae(2022.11)</a>
     <hr>
