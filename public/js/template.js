@@ -36,7 +36,7 @@ template.innerHTML = `
     <a class="sidebar-nav-item" href="./research.html">Research&Project</a>
     <a class="sidebar-nav-item" href="./experiences.html">Experiences</a>
     <a class="sidebar-nav-item" href="./publication.html">Publications</a>
-    <a class="sidebar-nav-item" href="./misc.html">Misc</a>
+    <a class="sidebar-nav-item" href="./misc.html">Miscellaneous</a>
     <a class="sidebar-nav-item" href="./contact.html">Contact</a>
   </nav>
 </div>

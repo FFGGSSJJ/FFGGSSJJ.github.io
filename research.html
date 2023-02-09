@@ -28,7 +28,7 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  
+
   <script src="./public/js/template.js" type="text/javascript" defer></script>
 </head>
 
@@ -82,8 +82,15 @@
           <p><img src="picture/pagecache.png" alt="Page Cache Expander Arch" ></p>
           <p>
             This project aims to use SmartSSD as a page cache expander to perform page cache compression and other page cache management operations. By using the FPGA DRAM on SmartSSD to store victim page cache entries 
-            and FPGA logic to manage compressed page cache, we try to develop an OS-transparent schemes that require no OS intervention during page cache compression. My task is to
-            implement the compression algorithm on FPGA, currently the <i>LZ77</i> algorithm is implemented and worked in SmartSSD.
+            and FPGA logic to manage compressed page cache, we try to develop an OS-transparent schemes that require no OS intervention during page cache compression. 
+          </p>
+          <p>
+            My duty includes:
+            <ul>
+              <li>setup environment and complete basic configuration steps</li>
+              <li>explore the basic use of SmartSSD, including performance test (bandwidth, parallelism..) and test program coding </li>
+              <li>implement the compression algorithm on FPGA, currently the <i>LZ77</i> algorithm is implemented and working in SmartSSD(further optimization to be expected).</li>
+            </ul>
           </p>
         </div>
 
@@ -97,7 +104,15 @@
           <p> 
             This project aims to offload Database filter functions to SmartSSD. The basic philosophy is: store the large scale data in SSD (with .csv form) ->
             load the data from SSD to FPGA DRAM -> perform database filter -> load the filtered data from FPGA DRAM to CPU DRAM -> perform other operations in server CPU.
-            My job is to implement the filter function in SmartSSD. The current scheme uses the hash value to indicate the filtering condition.
+          </p>
+          <p>
+            My duty includes:
+            <ul>
+              <li>implement shell script to perform some file operations</li>
+              <li>implement several datapath for data loading and filtering, include SSD->FPGA DRAM/SSD->CPU DRAM/FPGA DRAM->CPU DRAM </li>
+              <li>implement the filter function in SmartSSD</li>
+              <li>setup experiments for datapaths testing</li>
+            </ul>
           </p>
         </div>
 
@@ -108,6 +123,7 @@
           <p> <i>Advisor: Jinghan Huang (Ph.D. candidate), Prof. Nam Sung Kim (University of Illinois Urbana-Champaign) </i> </p>
           <p><i>University of Illinois Urbana-Champaign</i></p>
           <p><img src="picture/nic0.png" alt="SmartNIC Arch" style="width:310px;height:250px;"><img src="picture/nic1.png" alt="SmartNIC Arch" style="width:570px;height:250px;"></p>
+          <p>TO BE UPDATED</p>
         </div>
 
         <!-- Project 4 -->
