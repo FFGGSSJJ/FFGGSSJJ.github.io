@@ -74,12 +74,25 @@
           <h2 class="page-subtitle"> 1. Working Experiences </h2>
 
           <div class="post">
-            <strong>Back-end Developer@<i>Hangzhou Houqi Tech</i> </strong> <i>[On-the-job]</i>
+            <strong>Back-end Develop Engineer@<i>Hangzhou Houqi Tech</i> </strong> <i>[On-the-job]</i>
             <hr>
             <i></i>
             <p>
-              
+              Working as a back-end engineer in the video analysis group, my duty includes:
             </p>
+            <ul>
+              <li>
+                use <i>ffmpeg</i> and Hikvision C++ SDK to develop a <i>rtsp</i> video stream pulling/pushing scheme. 
+                The pulled stream data is then decoded into frame packet and converted into OpenCV <i>cv::Mat</i> format to fetch into a self-developed face detection
+                algorithm. The decoding is implemented using software-decode and hardware-decode (GPU) based on the encode format of the video stream. 
+                The total delay of pulling and decoding is less than <strong><i>30ms</i></strong>. 
+              </li>
+              <li>
+                learn the high-performance vector database <strong><i>Milvus</i></strong>. I deploy a Milvus Standalone on a local machine to test and benchmark the 
+                performance of the Milvus database. Our target is verifying the feasibility of using Milvus Cluster to store massive high-dimension image embedding 
+                vectors and perform low latency query/search operations to retrieve similar vectors in a commercial product.
+              </li>
+            </ul>
           </div>
 
           <!-- Teaching -->
