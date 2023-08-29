@@ -17,7 +17,7 @@ template.innerHTML = `
     
     <hr>
     <!-- emails -->
-    gf9@illinois.edu  guanshujie.19@intl.zju.edu.cn
+    fuguan@student.ethz.ch
     <hr>
 
     <!-- links -->
@@ -25,7 +25,7 @@ template.innerHTML = `
     <div></div>
     <a href="https://github.com/FFGGSSJJ">@GitHub</a>
     <div></div>
-    <a href="./docs/resume.pdf">@CurriculumVitae(2022.11)</a>
+    <a href="./docs/resumeV2.pdf">@CurriculumVitae(2023.09)</a>
     <hr>
 
   </div>
