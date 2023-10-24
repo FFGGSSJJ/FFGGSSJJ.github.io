@@ -26,7 +26,7 @@ template.innerHTML = `
     <div></div>
     <a href="https://github.com/FFGGSSJJ">@GitHub</a>
     <div></div>
-    <a href="./docs/resumeV2.pdf">@CurriculumVitae(2023.09)</a>
+    <a href="./docs/resumeV3.pdf">@CurriculumVitae(2023.09)</a>
     <hr>
 
   </div>
