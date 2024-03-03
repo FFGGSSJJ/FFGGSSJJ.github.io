@@ -18,7 +18,7 @@ template.innerHTML = `
     <hr>
     <!-- emails -->
     fuguan@ethz.ch
-    fuguan@student.ethz.ch
+    guanshujie.fu@ch.abb.com
     <hr>
 
     <!-- links -->
