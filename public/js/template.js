@@ -6,7 +6,7 @@ template.innerHTML = `
   <div class="sidebar-about">
     
     <p>
-    <img src="picture/myself.jpeg" alt="myself">
+    <img src="picture/myself.jpeg" alt="myself" width="300px" height="300px">
     <!-- <b>In Olympic National Park</b> -->
     </p>
 
@@ -26,7 +26,7 @@ template.innerHTML = `
     <div></div>
     <a href="https://github.com/FFGGSSJJ">@GitHub</a>
     <div></div>
-    <a href="./docs/resume.pdf">@Resume(2024.09)</a>
+    <a href="./docs/resume.pdf">@Resume(2024.12)</a>
     <hr>
 
   </div>
